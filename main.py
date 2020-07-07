@@ -1,3 +1,7 @@
+# Authored by Ayman Ahmed Elbelasy
+
+
+
 # -*- coding: utf-8 -*-
 
 # Form implementation generated from reading ui file 'main.ui'
